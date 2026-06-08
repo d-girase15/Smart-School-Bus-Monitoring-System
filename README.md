@@ -93,7 +93,7 @@ Smart-School-Bus-Monitoring-System/
 ---
 
 ## 👨‍💼 Author
-**Satvik Patil**  
+*Digvijay Girase**  
 
 ---
 
